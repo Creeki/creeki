@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🌱 I'm a bioinformatics master 3 student work on the gene evulution at Zhejiang A&F University.
+
 <!--
 **Creeki/creeki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
