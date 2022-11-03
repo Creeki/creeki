@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I'm a bioinformatics master 3 student work on the gene evulution at Zhejiang A&F University.
+🌱 I'm a bioinformatics PhD student work on the population genetics at Paris-Saclay University.
 
 <!--
 **Creeki/creeki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
