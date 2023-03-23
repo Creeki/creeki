@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I'm a bioinformatics PhD candidate work on the population genetics at Paris-Saclay University.
+🌱 I'm a bioinformatics PhD candidate working on the population genetics at Paris-Saclay University.
 
 <!--
 **Creeki/creeki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
