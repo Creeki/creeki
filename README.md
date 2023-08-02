@@ -2,6 +2,9 @@
 
 🌱 I'm a PhD candidate working on the population genetics at Paris-Saclay University.
 
+[![DOI](https://zenodo.org/badge/359830121.svg)](https://zenodo.org/badge/latestdoi/359830121)
+
+
 <!--
 **Creeki/creeki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
