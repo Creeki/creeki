@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-🌱 I'm a PhD candidate working on the population genetics at Paris-Saclay University.
+🌱 I'm a PhD candidate working on population genetics at Paris-Saclay University.
+
+My GitHub account ID, @Creeki, is a fusion of "creek" and "i". I've chosen this name in tribute to the wisdom expressed by Laozi in the _Tao Te Ching_: "上善若水, 水利万物而不争", which translates to "The highest virtue is like water, benefiting all and contending with none."
 
 [![DOI](https://zenodo.org/badge/359830121.svg)](https://zenodo.org/badge/latestdoi/359830121)
 
